@@ -1,0 +1,11 @@
+#tempSection {
+    text-align: center;
+}
+#tempDiv{
+    margin-top: 15%;
+    color: blueviolet;
+}
+#tempDiv > h1{
+    font-size: 3em;
+
+}
